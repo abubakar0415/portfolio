@@ -1,8 +1,10 @@
-<html>
-  <body>
+
+  
 # Abubakar Meer
 
 **Front End Developer**
+
+
 <img src="https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?size=626&ext=jpg" alt="3D Illustration - Person with Sunglasses" style="width: 200px; float: left;">
 
 
@@ -84,5 +86,4 @@ This website is created for UK based company Inbotiqa who is our client. This is
 Football, Cricket, Listening to Music, Reading and hangingout with family/friends
 
 I hereby declare that all the above information furnished is true to my best knowledge and belief.
-</body>
-</html
+
