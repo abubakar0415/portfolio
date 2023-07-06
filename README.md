@@ -1,6 +1,8 @@
 # Abubakar Meer
 
 **Front End Developer**
+![3D Illustration - Person with Sunglasses](https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?size=626&ext=jpg)
+
 
 +91 7666454718  
 abubakarmeer8@gmail.com
