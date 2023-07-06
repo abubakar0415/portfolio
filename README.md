@@ -1,3 +1,5 @@
+<html>
+  <body>
 # Abubakar Meer
 
 **Front End Developer**
@@ -76,8 +78,11 @@ This website is created for UK based company Inbotiqa who is our client. This is
   SNGHS High School, Mumbai  
   2011
 
+  
+
 ## Other Interests
 Football, Cricket, Listening to Music, Reading and hangingout with family/friends
 
 I hereby declare that all the above information furnished is true to my best knowledge and belief.
-
+</body>
+</html
